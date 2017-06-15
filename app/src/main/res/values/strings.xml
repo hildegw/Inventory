@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Inventory X-Over</string>
-    <string name="empty_view">Please add a bag to your inventory</string>
+    <string name="empty_view">Please add a new bag to your inventory</string>
+    <string name="sale_button">sale</string>
 </resources>
